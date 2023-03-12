@@ -57,11 +57,6 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
   ![AnnaBoldyreva1505's github
   stats](https://github-readme-stats.vercel.app/api?username=AnnaBoldyreva1505&show_icons=true&theme=radical&include_all_commits=true)
-  
-  <br></br>
-
-
-  
 
 
 </div>
