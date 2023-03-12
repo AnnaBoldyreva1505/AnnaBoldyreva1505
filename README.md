@@ -14,8 +14,8 @@
   </a>
 
 </div>
-<div>
-   ![](https://visitor-badge.glitch.me/badge?page_id=AnnaBoldyreva1505)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AnnaBoldyreva1505&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -62,3 +62,8 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 
 </div>
+
+
+
+
+
