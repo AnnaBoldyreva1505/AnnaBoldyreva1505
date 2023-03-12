@@ -12,9 +12,10 @@
   <a href="https://t.me/Anya_Boldyreva" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+    ![](https://visitor-badge.glitch.me/badge?page_id=AnnaBoldyreva1505)
 </div>
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=AnnaBoldyreva1505)
+
 
 <h1 align="center">
   hey there
