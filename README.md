@@ -17,7 +17,6 @@
 <div>
    ![](https://visitor-badge.glitch.me/badge?page_id=AnnaBoldyreva1505)
 </div>
-   
 
 <h1 align="center">
   hey there
